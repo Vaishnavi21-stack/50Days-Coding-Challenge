@@ -16,3 +16,7 @@ Insights:
 Students with more than 4 hours of screen time have lower average test scores.
 Students with normal screen time perform better.
 Balanced screen time and study hours give better results.
+
+Day3 Excel Challenge
+
+Completed dashboard, pivot tables, slicers, and analysis in Excel.
