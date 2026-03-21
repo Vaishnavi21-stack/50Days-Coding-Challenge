@@ -38,7 +38,7 @@ In this task I performed:
 Tools used:
 Excel, Pivot Table, What-If Analysis, Scenario Manager, Data Table
 
-# Day 5 – IT Help Desk Ticket Analysis
+# Day 5– IT Help Desk Ticket Analysis
 
 This project is part of my 60 Days Coding Challenge.
 
@@ -83,7 +83,7 @@ The goal was to understand ticket trends, resolution time, common issues, and an
 This analysis helps understand IT support workload, recurring issues, and performance.  
 It can help improve response time and system efficiency.
 
-# Banking Sector Analysis – Power BI
+# Day 6-Banking Sector Analysis – Power BI
 
 Dashboard pages:
 Customer Overview
@@ -104,3 +104,49 @@ Bookmarks
 Files:
 Banking_Dashboard.pbix
 Summary.pptx
+
+# Quality Control Dashboard (Power BI)
+
+## Overview
+
+This project is a Quality Control Dashboard built using Power BI to analyze production and inspection data.
+The report shows defect rate, defective products, daily trend, and performance by production line and inspector.
+
+## Dataset
+
+Two tables were used:
+
+* production_data → Date, ProductID, BatchID, Status
+* batches_data → BatchID, ProductionLine, InspectorName
+
+Both tables are connected using BatchID.
+
+## Data Modeling
+
+Relationship created between:
+production_data[BatchID] → batches_data[BatchID]
+
+## Measures Created
+
+* Defective Items
+* Total Items
+* Overall Defect Rate
+* Daily Defect Rate
+
+## Visualizations
+
+* Card → Overall Defect Rate
+* Bar Chart → Top 5 Products by defects
+* Line Chart → Daily defect trend
+* Table → Production line & inspector defects
+* Date slicer for filtering
+
+## Tools Used
+
+* Power BI Desktop
+* Excel
+* DAX
+
+## File
+
+Quality_Control_Dashboard.pbix
