@@ -105,7 +105,7 @@ Files:
 Banking_Dashboard.pbix
 Summary.pptx
 
-# Quality Control Dashboard (Power BI)
+# Day 7- Quality Control Dashboard (Power BI)
 
 ## Overview
 
