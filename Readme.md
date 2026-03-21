@@ -82,3 +82,25 @@ The goal was to understand ticket trends, resolution time, common issues, and an
 
 This analysis helps understand IT support workload, recurring issues, and performance.  
 It can help improve response time and system efficiency.
+
+# Banking Sector Analysis – Power BI
+
+Dashboard pages:
+Customer Overview
+Transaction Analysis
+Customer Details
+Loan Performance
+Top Customers
+Tooltip
+
+Features used:
+Conditional formatting
+Drill through
+Tooltip
+Slicer
+Hierarchy
+Bookmarks
+
+Files:
+Banking_Dashboard.pbix
+Summary.pptx
