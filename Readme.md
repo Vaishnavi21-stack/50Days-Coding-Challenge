@@ -151,7 +151,7 @@ production_data[BatchID] → batches_data[BatchID]
 
 Quality_Control_Dashboard.pbix
 
-# Logistics & Supply Chain Dashboard
+# Day 8 Logistics & Supply Chain Dashboard
 
 ## Overview
 
@@ -213,5 +213,5 @@ The dashboard includes the following visuals:
 * Power BI
 * DAX
 * Excel
-* GitHub
+  
 
