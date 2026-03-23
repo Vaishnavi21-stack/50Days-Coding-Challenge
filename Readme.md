@@ -150,3 +150,68 @@ production_data[BatchID] → batches_data[BatchID]
 ## File
 
 Quality_Control_Dashboard.pbix
+
+# Logistics & Supply Chain Dashboard
+
+## Overview
+
+This project analyzes logistics delivery performance using **Power BI**.
+The dashboard helps monitor shipment performance, delivery delays, delivery cost, and regional delivery trends.
+
+## Dataset
+
+The dataset contains shipment-level data with the following fields:
+
+* ShipmentID
+* OrderDate
+* DeliveryDate
+* ExpectedDate
+* OriginCity
+* DestinationCity
+* Region
+* Distance_km
+* Cost_USD
+* DeliveryStatus
+* DeliveryTime_Days
+
+## KPIs
+
+The following key performance indicators were created:
+
+* Total Shipments
+* On-time Delivery %
+* Average Delivery Time (Days)
+* Total Delivery Cost
+
+## DAX Measures
+
+* Total Shipments
+* OnTime Shipments
+* OnTime %
+* Avg Delivery Time
+* Total Delivery Cost
+* Delay Days (Calculated Column)
+
+## Visualizations
+
+The dashboard includes the following visuals:
+
+* Heatmap: Delivery Status by City
+* Bar Chart: Average Delivery Time by Region
+* KPI Cards for key metrics
+* Conditional formatting to highlight shipments delayed by more than 2 days
+
+## Insights
+
+* Some regions show higher average delivery time.
+* A number of shipments are delayed by more than 2 days.
+* Delivery cost increases with longer distances.
+* On-time delivery performance varies across regions.
+
+## Tools Used
+
+* Power BI
+* DAX
+* Excel
+* GitHub
+
