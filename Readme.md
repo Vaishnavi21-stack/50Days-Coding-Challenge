@@ -214,4 +214,17 @@ The dashboard includes the following visuals:
 * DAX
 * Excel
   
+  
+Day- 9 # Eating Out vs Health Dashboard
 
+This Power BI project analyzes the relationship between eating habits and health conditions.  
+The dashboard shows how eating out frequency, exercise, sleep, and calories affect BMI, cholesterol, and health score.
+
+The report contains 3 pages:
+1. Overview – KPIs and high-level insights  
+2. Eating Out vs Health Trends – charts showing eating habits vs health  
+3. Demographics & Lifestyle Insights – age, gender, exercise, sleep analysis  
+
+Tools used: Power BI, DAX, Conditional Formatting.  
+
+Open the .pbix file using Power BI Desktop to view the dashboard.
