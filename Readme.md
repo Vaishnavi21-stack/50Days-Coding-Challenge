@@ -228,3 +228,16 @@ The report contains 3 pages:
 Tools used: Power BI, DAX, Conditional Formatting.  
 
 Open the .pbix file using Power BI Desktop to view the dashboard.
+
+Day-10 # Instagram Engagement Analysis Dashboard
+
+This project is an interactive Power BI dashboard created to analyze Instagram post performance using engagement metrics.  
+The dataset includes post type, likes, comments, shares, saves, reach, impressions, hashtags, caption length, and follower count.
+
+Data cleaning and transformation were performed in Power BI, and an Engagement Rate column was created to measure audience interaction.
+
+The dashboard includes trend analysis, top performing posts, post type comparison, follower impact analysis, and interactive slicers.
+
+Key insights show that reels have higher engagement, reach does not always guarantee interaction, and content type affects performance more than caption length.
+
+Tools used: Power BI, Excel, GitHub.
