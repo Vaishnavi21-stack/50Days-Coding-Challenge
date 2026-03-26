@@ -46,5 +46,4 @@ The dataset includes:
 - Some age groups and occupations show higher claims
 - Higher premium policies tend to have higher claim amounts
 
-## Author
-Your Name
+
