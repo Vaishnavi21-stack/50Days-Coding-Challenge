@@ -240,4 +240,37 @@ The dashboard includes trend analysis, top performing posts, post type compariso
 
 Key insights show that reels have higher engagement, reach does not always guarantee interaction, and content type affects performance more than caption length.
 
-Tools used: Power BI, Excel, GitHub.
+Tools used: Power BI, Excel.
+
+Day-11 # Insurance Claim Analysis - Power BI
+
+## Overview
+This project analyzes an insurance claims dataset using Power BI.  
+The dashboard shows claim trends, fraud cases, customer details, and policy information using interactive visuals.
+
+## Tools Used
+- Power BI
+- Power Query
+- Excel
+
+## Visualizations Created
+- Claim amount by state
+- Claim by incident type
+- Claim by age and education
+- Fraud vs non-fraud claims
+- Premium vs deductible (scatter chart)
+- Table view of claim details
+- Slicer for filtering
+
+## Dashboard Pages
+- Dashboard Overview
+- Detailed Analysis
+- Summary & Findings
+
+## Key Insights
+- Some states have higher claim amounts
+- Multi-vehicle collisions produce more claims
+- Fraud cases are fewer but important
+- Claim amount varies by age, education, and policy details
+
+
