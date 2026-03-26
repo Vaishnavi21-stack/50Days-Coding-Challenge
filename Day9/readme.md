@@ -53,5 +53,4 @@ Shows how people characteristics affect health:
 - Less sleep may reduce health score.
 - Healthy food preference shows better overall health.
 
-## How to Open
-Download the `.pbix` file and open it using Power BI Desktop.
+
