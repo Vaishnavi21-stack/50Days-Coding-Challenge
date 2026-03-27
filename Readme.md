@@ -273,4 +273,15 @@ The dashboard shows claim trends, fraud cases, customer details, and policy info
 - Fraud cases are fewer but important
 - Claim amount varies by age, education, and policy details
 
+  
+
+Day 12 – MGNREGS Analysis
+
+On Day 12, I built a Power BI dashboard to analyze MGNREGS data across states and years.
+I performed data cleaning, created key measures like work completion rate and demand-supply gap, and designed interactive visuals.
+The dashboard includes trend analysis, state-wise comparison, KPI cards, and filters for better insights.
+I also identified top and underperforming states using comparative benchmarking.
+This project helped me understand how data visualization supports decision-making.
+Overall, it was a strong hands-on experience in Power BI and data analysis.
+
 
