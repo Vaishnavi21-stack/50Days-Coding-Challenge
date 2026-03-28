@@ -285,3 +285,22 @@ This project helped me understand how data visualization supports decision-makin
 Overall, it was a strong hands-on experience in Power BI and data analysis.
 
 
+
+# 📊 Day 13 – Stress Level Analysis
+
+This project is a Power BI dashboard to analyze employee stress levels.
+
+It includes KPIs like average stress level, high stress percentage, sleep hours, and work hours.
+
+Visualizations such as column chart, line chart, scatter plot, and donut chart are used to identify patterns.
+
+Slicers are added for Department, Gender, and Age Group to filter data.
+
+Conditional formatting is used to highlight high-risk employees.
+
+Key insight: Higher work hours and lower sleep hours are linked to higher stress levels.
+
+Tool used: Power BI (DAX for calculations)
+
+
+
