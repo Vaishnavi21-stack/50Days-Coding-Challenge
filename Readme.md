@@ -303,4 +303,18 @@ Key insight: Higher work hours and lower sleep hours are linked to higher stress
 Tool used: Power BI (DAX for calculations)
 
 
+Day 14
+# SQL Sales Analysis Assignment
+
+This project contains SQL queries for sales data analysis.
+
+Topics covered:
+- SELECT
+- WHERE
+- ORDER BY
+- DISTINCT
+
+Tools used:
+- MySQL Workbench
+
 
