@@ -318,3 +318,9 @@ Tools used:
 - MySQL Workbench
 
 
+DAY 15
+# SQL Student Management Assignment
+
+This project demonstrates basic SQL operations using a College Student Management System. It includes creating tables for students, courses, and marks, and inserting sample data into them. Various SQL queries are performed such as selecting data, filtering records, sorting results, and using aggregate functions. The assignment helps in understanding core SQL concepts like SELECT, WHERE, ORDER BY, COUNT, AVG, MAX, MIN, and SUM. It is implemented using MySQL Workbench. Overall, this project provides a strong foundation for beginners in SQL.
+
+
