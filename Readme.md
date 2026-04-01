@@ -343,4 +343,7 @@ Concepts used include WHERE, ORDER BY, GROUP BY, SUM, AVG, COUNT, CASE, and HAVI
 
 This project covers fundamental SQL skills required for data analysis and reporting.
 
+DAY17
+Initial commit: Customer Orders Analysis using SQL (JOINs, aggregations, data validation)
+
 
