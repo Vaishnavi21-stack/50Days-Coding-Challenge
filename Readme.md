@@ -346,4 +346,23 @@ This project covers fundamental SQL skills required for data analysis and report
 DAY17
 Initial commit: Customer Orders Analysis using SQL (JOINs, aggregations, data validation)
 
+DAY18
+# Project Summary
+
+This project involves analyzing a social media database using SQL.
+The database consists of tables such as Users, Posts, Likes, Comments, and Friendships.
+
+Various SQL queries were written to retrieve and analyze data from these tables.
+JOIN operations were used to combine data across multiple tables.
+Aggregation functions like COUNT and GROUP BY were applied to analyze user activity.
+
+Subqueries were used to perform advanced filtering and comparisons.
+A stored procedure was created to summarize user activity including posts, likes, and comments.
+
+Different tasks helped in understanding relationships between users and their interactions.
+The final challenge identified the most influential user based on total engagement.
+
+Overall, this project improved practical SQL skills and real-world database problem-solving ability.
+
+
 
