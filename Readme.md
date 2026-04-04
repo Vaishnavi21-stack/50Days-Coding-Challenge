@@ -365,4 +365,64 @@ The final challenge identified the most influential user based on total engageme
 Overall, this project improved practical SQL skills and real-world database problem-solving ability.
 
 
+DAY19
+# 🌾 Farm Yield Optimization (SQL Project)
+
+## 📌 Overview
+
+This project analyzes farm data using SQL to understand crop yield, water usage, and overall productivity.
+The goal is to identify patterns and optimize farming decisions.
+
+---
+
+## 🗂️ Tables Used
+
+* farmers
+* plots
+* yields
+* irrigation_logs
+
+---
+
+## 🎯 Tasks
+
+* Top 3 productive plots based on average yield
+* Total water consumption per plot
+* Average yield by crop type and weather
+* Highest yield per soil type
+* Farmer with lowest water usage
+* Monthly harvest analysis
+* Bonus: Low yield + high water usage plots
+
+---
+
+## 🛠️ Tools
+
+* MySQL
+* SQL
+
+---
+
+## 🚀 Key Concepts
+
+* Joins
+* Aggregations (AVG, SUM, COUNT)
+* Subqueries
+* Window Functions
+
+---
+
+## 📁 Files
+
+* farm_analysis.sql
+* README.md
+
+---
+
+## ✅ Outcome
+
+Extracted insights on productivity and resource usage using SQL.
+
+
+
 
