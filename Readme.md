@@ -432,6 +432,12 @@ Further, the project explores average insurance costs across different categorie
 Additionally, comparative analysis was performed to understand cost differences between smokers and non-smokers across regions. Overall, this assignment demonstrates the use of SQL for data filtering, grouping, and aggregation to extract meaningful insights from structured data.
 
 
+DAY21
+## 📌 Summary
+
+This project involves analyzing an insurance claims dataset using SQL. A structured database and table were created, followed by inserting sample claim records. Various SQL queries were written to extract insights from the data. The analysis includes identifying claims above the overall average, finding policy holders with approved claims, and comparing individual claims against their respective averages. Advanced SQL concepts such as subqueries and correlated subqueries were applied to solve real-world scenarios. Additionally, aggregate functions were used to compute meaningful metrics. The project demonstrates strong understanding of data filtering, grouping, and comparison techniques. Overall, it highlights practical SQL skills for data analysis and decision-making.
+
+
 
 
 
