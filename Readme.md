@@ -650,7 +650,7 @@ On Day 29, I worked on a Python dictionary-based assignment where I stored stude
 
 On Day 30, I practiced problems based on different Python data structures including strings, lists, tuples, and dictionaries. I solved problems like finding the longest substring without repeating characters, removing duplicates from a list while preserving order, finding maximum and minimum values in a tuple, counting character frequency, and grouping words by length. This improved my problem-solving skills and understanding of how to use different data structures effectively.
 
-## 📌 Assignment Summary
+## DAY31 Assignment Summary
 
 In this assignment, I worked on a project called **Smart Expense Analyzer** using Python.
 
