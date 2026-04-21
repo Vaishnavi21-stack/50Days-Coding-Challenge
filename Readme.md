@@ -640,4 +640,13 @@ Further, the assignment determines the trip with the highest fare, showcasing th
 Overall, this work demonstrates the use of Python for data filtering, aggregation, and basic analytics. It builds a strong foundation for handling real-world datasets and deriving meaningful insights from structured data.
 
 
+## 📅 Learning Summary
+
+### ✅ Day 29
+
+On Day 29, I worked on a Python dictionary-based assignment where I stored student marks and performed basic analysis. I calculated total and average marks, identified the top scorer, and found students who failed in any subject. This helped me understand how to use dictionaries, loops, and conditions for real-world data handling.
+
+### ✅ Day 30
+
+On Day 30, I practiced problems based on different Python data structures including strings, lists, tuples, and dictionaries. I solved problems like finding the longest substring without repeating characters, removing duplicates from a list while preserving order, finding maximum and minimum values in a tuple, counting character frequency, and grouping words by length. This improved my problem-solving skills and understanding of how to use different data structures effectively.
 
