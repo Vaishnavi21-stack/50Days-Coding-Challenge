@@ -678,3 +678,27 @@ This assignment focuses on building a strong foundation in Python programming by
 Throughout this assignment, I implemented multiple programs to understand and apply logical thinking in real scenarios. The tasks include checking whether a number is even or odd, identifying if a number is positive, negative, or zero, printing numbers using loops, calculating the sum of the first N numbers, designing a password retry system with limited attempts, and generating a multiplication table.
 
 These exercises helped reinforce key programming concepts like `if-elif-else` conditions, `while` loops, counters, and formatted output. Overall, this assignment strengthened my ability to write structured, efficient, and readable Python code while improving my problem-solving skills.
+
+
+
+# Python Basics Assignment
+
+## Summary
+
+In this assignment, I implemented basic Python programs using loops and conditional statements.
+
+### Tasks Completed:
+
+* Built a Number Guessing Game using a while loop
+* Reversed a number using logic and iteration
+* Counted digits in a number
+* Filtered sales data based on a threshold
+* Created a continuous data entry system to calculate total sum
+
+## Concepts Used:
+
+* while loop
+* for loop
+* if-else conditions
+* user input handling
+* basic problem-solving logic
