@@ -715,3 +715,10 @@ Each problem was solved with an emphasis on clean logic, readability, and effici
 
 Overall, this assignment strengthens foundational Python skills and prepares for more advanced topics in data analysis and software development.
 
+DAY35
+## 📌 Summary
+
+This assignment demonstrates solutions to five fundamental Python problems using clean and efficient approaches.
+It covers key concepts such as list comprehension, string manipulation, sets, and dictionaries.
+Each solution focuses on readability, simplicity, and practical problem-solving techniques.
+Overall, it strengthens core Python skills and reinforces writing optimized, maintainable code.
