@@ -1,0 +1,5 @@
+n this assignment, I developed a Python program to calculate the annual insurance premium of a customer based on predefined business rules. The program takes user inputs such as customer name, age, policy type, and number of claims, and processes them using conditional logic.
+I implemented different base premium values for each policy type and applied adjustments based on age and claim history. The logic includes premium loading for higher risk conditions and discounts for no-claim cases. Input validation was also handled to ensure only valid policy types are accepted.
+Additionally, I enhanced the solution by creating a reusable function calculate_premium(age, policy_type, claims) to encapsulate the core calculation logic. This improves code modularity, readability, and reusability.
+The final output displays the calculated premium clearly, demonstrating the correct application of arithmetic operations and business rules.
+Overall, this assignment helped strengthen my understanding of Python fundamentals, including variables, input/output handling, conditional statements, functions, and clean code structure.
