@@ -1,0 +1,3 @@
+# Airline Delay Analysis Summary
+
+This project analyzes airline flight delays using Python in Google Colab. The dataset contains information about airports, arrival delays, weather delays, carrier delays, and aircraft delays. Data cleaning was performed to handle missing values and understand the dataset structure. Airport-wise analysis showed that some airports experience higher average delays than others. Weather conditions were identified as a major factor affecting flight schedules. Monthly trend analysis revealed that delays vary across different months. Delay type analysis showed that carrier delays and late aircraft delays contribute significantly to overall delays. Various visualizations such as bar charts and line graphs were created
