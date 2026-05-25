@@ -728,3 +728,31 @@ day43:
 
 This project focused on analyzing the Superstore sales dataset to identify the reasons behind declining profits despite increasing sales. The dataset was cleaned by removing duplicate records and checking for missing values. Exploratory Data Analysis (EDA) was performed to understand sales, profit, discounts, categories, and regional performance. Visualizations showed that excessive discounts negatively impacted profits and some products generated losses. The Furniture category, especially Tables and Bookcases, contributed to low profitability. Regional analysis revealed uneven business performance and delivery delays in certain regions. Monthly sales trends helped identify fluctuations in customer purchases over time. Based on the analysis, recommendations were provided to reduce high discounts, improve delivery efficiency, and focus more on profitable categories like Technology. Overall, the project demonstrated how data analysis can help businesses make better strategic decisions and improve profitability.
 
+
+Day50
+# Social Media Addiction Among Students Analysis
+
+This project analyzes student social media addiction using Python and Google Colab.
+
+## Project Includes
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- KPI Analysis
+- Insight Report
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Google Colab
+
+## Files
+- Cleaned Dataset (.csv)
+- Python Notebook (.ipynb)
+- Visualizations
+- Insight Report
+
+## Objective
+To understand how social media usage affects students' sleep, mental health, addiction level, and academic performance.
